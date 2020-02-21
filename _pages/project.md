@@ -33,14 +33,14 @@ In the project proposal, you'll pick a project idea to work on early and receive
 * Method: What machine learning techniques are you planning to apply or improve upon?
 * Intended experiments: What experiments are you planning to run? How do you plan to evaluate your machine learning algorithm? Presenting pointers to one relevant dataset and one example of prior research on the topic are a valuable (optional) addition.
 
-*Grading:* The project proposal is mainly intended to make sure you decide on a project topic and get feedback from TAs early. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well on the proposal.
+*Grading:* The project proposal is mainly intended to make sure you decide on a project topic and get early feedback. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well.
 
 #### Progress report
-The progress report will help you make sure you are on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the progress report (and final one) keeping in mind that the intended audience are the jury members and myself. Your progress report should include the full names of all your team members and state the full title of your project. 
+The progress report will help you make sure you are on track, and should describe what you have accomplished so far, and very briefly say what else you plan to do. You should write it as if it is an “early draft" of what will turn into your final project. You can write it as if you are writing the first few pages of your final project report, so that you can re-use most of the text in your final report. Please write the progress report (and final one) keeping in mind that the intended audience are the jury members and myself. Your progress report should include the full names of all your team members and state the full title of your project. 
 
 *Contributions:* Please include a section that describes what each team member worked on and contributed to the project. This is to make sure team members are carrying a fair share of the work for projects. 
 
-*Grading:* The progress report is mostly intended to get feedback to make sure you are making reasonable progress. As long as your milestone follows the instructions above and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well.
+*Grading:* The progress report is mostly intended to get feedback to make sure you are making reasonable progress. As long as your report follows the instructions above and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well.
 
 *Format:* Your progress report should be at most 3 pages, excluding references. Similar to to the proposal, it should include:
 * Motivation: What problem are you tackling, and what is the setting you are considering?
@@ -49,7 +49,7 @@ The progress report will help you make sure you are on track, and should describ
 * Next steps: Given your preliminary results, what are the next steps that you are considering?
 
 #### Final deliverable 
-Your final deliverable will include the project report as well as the code produced during the project. Using a github for the latter is strongly recommended.
+Your final deliverable will include the project report as well as the code produced during the project. Using a Github repository for the latter is strongly recommended.
 
 *Format*: Final project report can be at most 5 pages long (including appendices and figures). Extra pages are allowed only if they contain only references. If you did this work in collaboration with someone else, or if someone else (such as another professor) had advised you on this work, your write-up must fully acknowledge their contributions. For shared projects, it is required that you submit the final report from the class/project you are sharing the project with. You can use the guidelines from Standford's ML course on how to write the final report ([link](http://cs229.stanford.edu/final-report-guidelines.pdf)).
 
@@ -57,11 +57,11 @@ Your final deliverable will include the project report as well as the code produ
 
 *Code*:	Please include a link to a Github repository or zip file with the code for your final project. You do not have to include the data or additional libraries.
 
-*Grading*: The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in MALIS, the novelty of the problem, and the technical quality and significance of the work.
+*Grading*: The final report will be judged based on the clarity of the report, the relevance of the project to topics taught in MALIS, the novelty of the problem, and the technical quality and significance of the work.
 
 
 ### Final Presentations
-The projects will be presented at a session with 3 invited external jury members that will assess the projects'quality. Each team should prepare a slide, and be prepared to give a 3 minutes presentation  about their work. This will give you all the opportunity to see what everyone else did for their projects. You will  need to submit your presentation as a PDF two days before the presentation.
+The projects will be presented at a session with 3 invited external jury members that will assess the projects' quality. Each team should prepare a slide, and be prepared to give a 3 minutes presentation  about their work. This will also give you the opportunity to see what everyone else did for their projects. You will need to submit your presentation as a PDF two days before the presentation.
 
 *Grading:* Presentations will be graded based on their quality and clarity, the technical content, and the knowledge demonstrated by the team when discussing the work with the jury members.
 
