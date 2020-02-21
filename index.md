@@ -21,3 +21,14 @@ The course is a combination of lecture and lab sessions. The lectures will discu
 
 ### Repository:
 Complementary material and labs can be found in the course's [GitLab repository](https://gitlab.eurecom.fr/zuluaga/MALIS).
+
+### Projects:
+<ul style="list-style:none;padding:0rem 0;">
+<ul class="homepage-list" style="list-style:none;padding:0rem 0;">
+{% for post in site.posts %}
+  <li>
+    <a style="display:inline-block;width:60%;" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <time style="float:right;font-size:90%;" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+  </li>
+{% endfor %}
+</ul>
