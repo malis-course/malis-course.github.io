@@ -1,0 +1,33 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               'Machine Learning and Intelligent Systems'
+url:                 https://malis-course.github.io/malis
+tagline:             'MALIS - Fall 2019 Tue 13:30 - 16:45'
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+include:
+  - _pages
+
+# Cloudinary
+#cloudinary:
+#  cloud_name: your cloudinary username
+
+# About/contact
+author:
+  name:              Maria A. Zuluaga
+  url:               https://www.eurecom.fr/~zuluaga
+  email:             
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/malis-course/malis
