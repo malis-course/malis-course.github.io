@@ -26,8 +26,6 @@ In order to highlight these components, it is important you present a discussion
 #### Project Proposals
 In the project proposal, you'll pick a project idea to work on early and receive feedback. If your proposed project will be done jointly with a different class' project, you should obtain approval from the other instructor and approval from me. 
 
-In the proposal, below your project title, include the project category. The category can be one of:
-
 *Format*: Your proposal should be a PDF document, giving the title of the project, the full names of all of your team members, and a 300-500 word description of what you plan to do.
 
 *Content*: Your project proposal should include the following information:
