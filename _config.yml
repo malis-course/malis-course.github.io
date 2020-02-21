@@ -5,7 +5,7 @@ permalink:           pretty
 title:               'Machine Learning and Intelligent Systems'
 url:                 https://malis-course.github.io/malis
 tagline:             'MALIS - Fall 2019 Tue 13:30 - 16:45'
-baseurl:             ""
+baseurl:             "https://malis-course.github.io"
 
 # Assets
 #
