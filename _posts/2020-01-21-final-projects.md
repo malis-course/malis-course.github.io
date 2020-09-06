@@ -11,133 +11,98 @@ Serena Villata, CNRS
 
 ## Best project presentation award
 **Clustering of DNA strings**\\
-Riccardo Schiavone, Andrea Senacheribbe
+R Schiavone, A Senacheribbe
 
 ## Honorable mentions
 **Choosing the right tool to do upper airway surgery**\\
-Emma Arriau, Pierre Luscan
+E Arriau, P Luscan
 
 **Broken Bones Detection**\\
-Irina Moschini, Thiziri Nait Saada
+I Moschini, T Nait Saada
 
 **Deep Neural Networks with Flexible Rational Activation Functions**\\
-Ali Bemani
+A Bemani
 
 **Machine learning techniques to play snake**\\
-Maxime Bouthors, Arnaud Barral
+M Bouthors, A Barral
 
 **Bone X-Ray Classification: Final Report**\\
-Clement Gohlke, Sidaty El Hadramy
+C Gohlke, S El Hadramy
 
 **Autonomous Driving Processing Pipeline**\\
-Matthieu Da Silva–Filarder, Ugo Lecerf
+M Da Silva–Filarder, U Lecerf
 
 **Clustering users according to their interests**\\
-Federico Brunero, Matteo Guarrera
+F Brunero, M Guarrera
 
 ## All projects
-**Predicting the likelihood of drug consumption**\\
-Fanny Heidmann, Chloé Guiga
+Predicting the likelihood of drug consumption\\
 
-**Keyword/Concept Identification**\\
-Riccardo Torres
+Keyword/Concept Identification\\
 
-**Prototyping a recommendation system for user rating predictions of movies**\\
-Torstein M. Langan
+Prototyping a recommendation system for user rating predictions of movies\\
 
-**Football match prediction based on FIFA statistics**\\
-Mads Norby, Marius Grønby Kristoffersen
+Football match prediction based on FIFA statistics\\
 
-**Predicting Football Result via ML**\\
-Genc Genci
+Predicting Football Result via ML\\
 
-**Convolution Neural Network in Facial Expression Recognition**\\
-Thu Ha Phi, Anh Tuan Dao
+Convolution Neural Network in Facial Expression Recognition\\
 
-**Text Classification**\\
-Thomas Diaconu, Florent De Bortoli
+Text Classification\\
 
-**Collaborative and content based movie recommendations**\\
-Jean-Flavien Bussoti
+Collaborative and content based movie recommendations\\
 
-**Music Genre Classification**\\
-Yazid Mouline, Guillaume Requena
+Music Genre Classification\\
 
-**Flight Delay Prediction**\\
-Titouan Cazin, Pascal Mignon
+Flight Delay Prediction\\
 
-**House Prices: Advanced Regression Techniques**\\
-Xavier Valette, Nathan Barranco-Janniaux
+House Prices: Advanced Regression Techniques\\
 
-**Beating the bookmakers**\\
-Timothee Nouel, Theo Uscidda
+Beating the bookmakers\\
 
-**Road Signs Classification with Machine Learning**\\
-Adib Rachid, Mokhles Bouzaien
+Road Signs Classification with Machine Learning\\
 
-**Image Captioning**\\
-Youssef Doubli, Farouk Faiz
+Image Captioning\\
 
-**Movie Recommender System**\\
-Hassan El Mansouri & Mohamed Zineddine Chedadi
+Movie Recommender System\\
 
-**Daily Trading the S&P500 using a crossmomentum strategy**\\
-Théo Daneels, Joël Garde
+Daily Trading the S&P500 using a crossmomentum strategy\\
 
-**Optimize Inventory**\\
-Ange Ndoudi, Nicolas Hirzmann
+Optimize Inventory\\
 
-**Digit recognizer: Implementation and comparison of various ML algorithms on MNIST**\\
-Sonika Ujjwal, Lucien Marey 
+Digit recognizer: Implementation and comparison of various ML algorithms on MNIST\\
 
-**Success Movie**\\
-Clément Bernard, Maxence Brugeres
+Success Movie\\
 
-**Sentiment Analysis on Tweets**\\
-Jules Lecompte, Jade Bonnet
+Sentiment Analysis on Tweets\\
 
-**Predicting the influencer**\\
-Sami Aazmi - Abbe Ahmed-Khalifa
+Predicting the influencer\\
 
-**Bitcoin stock market trend prediction**\\
-Martin Guyard
+Bitcoin stock market trend prediction\\
 
-**Political Social Media Posts**\\
-Camille Gozé, Anne Tanché
+Political Social Media Posts\\
 
-**Intelligent Wine Analysis**\\
-Basile Etienne, Aël Quelennec
+Intelligent Wine Analysis\\
 
-**Predicting Fake Content**\\
-Sanjeev Prasad Shastry 
+Predicting Fake Content\\
 
-**Titanic: Machine Learning from Disaster**\\
-Jeanne Barthelemy, Iuliia Iakimova
+Titanic: Machine Learning from Disaster\\
 
-**Prediction of music listening**\\
-Alice Dumay, Mahdi Kallel
+Prediction of music listening\\
 
-**Bike Share Demand**\\
-Satenik Hovsepyan
+Bike Share Demand\\
 
-**Image classification of memes - recognizing pepe the frog with a CNN and SVM combination**\\
-Marvin Mouroum, Lauri Laatu
+Image classification of memes - recognizing pepe the frog with a CNN and SVM combination\\
 
-**Netflix Movie Rating Predictor**\\
-Gijs Wissing, Eirik Morken
+Netflix Movie Rating Predictor\\
 
-**Pattern recognition in Psychedelic music**\\
-Francesco Galatti, Viola Marconetto, Piera Riccio
+Pattern recognition in Psychedelic music\\
 
-**Balance Eye**\\
-Dhiaeddine Alioui, Oumaima Hmaied, Radhwen Bouaoun
+Balance Eye\\
 
-**Hybrid recommender for movies rating**\\
-Giuseppe Di Giacomo, Eugenio Marinelli
+Hybrid recommender for movies rating\\
 
-**Pollution Level Forecasting**\\
-Gianmarco Centonze, Antonio Scrimieri
+Pollution Level Forecasting\\
 
-**Determining the chances of a successful climbing depending on previous climbs and weather conditions**\\
-Theo Goldfuss, Manuel Quero
+Determining the chances of a successful climbing depending on previous climbs and weather conditions\\
 
