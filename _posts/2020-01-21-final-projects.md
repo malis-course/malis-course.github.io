@@ -36,73 +36,73 @@ M Da Silva–Filarder, U Lecerf
 F Brunero, M Guarrera
 
 ## All projects
-Predicting the likelihood of drug consumption\\
+Predicting the likelihood of drug consumption
 
-Keyword/Concept Identification\\
+Keyword/Concept Identification
 
-Prototyping a recommendation system for user rating predictions of movies\\
+Prototyping a recommendation system for user rating predictions of movies
 
-Football match prediction based on FIFA statistics\\
+Football match prediction based on FIFA statistics
 
-Predicting Football Result via ML\\
+Predicting Football Result via ML
 
-Convolution Neural Network in Facial Expression Recognition\\
+Convolution Neural Network in Facial Expression Recognition
 
-Text Classification\\
+Text Classification
 
-Collaborative and content based movie recommendations\\
+Collaborative and content based movie recommendations
 
-Music Genre Classification\\
+Music Genre Classification
 
-Flight Delay Prediction\\
+Flight Delay Prediction
 
-House Prices: Advanced Regression Techniques\\
+House Prices: Advanced Regression Techniques
 
-Beating the bookmakers\\
+Beating the bookmakers
 
-Road Signs Classification with Machine Learning\\
+Road Signs Classification with Machine Learning
 
-Image Captioning\\
+Image Captioning
 
-Movie Recommender System\\
+Movie Recommender System
 
-Daily Trading the S&P500 using a crossmomentum strategy\\
+Daily Trading the S&P500 using a crossmomentum strategy
 
-Optimize Inventory\\
+Optimize Inventory
 
-Digit recognizer: Implementation and comparison of various ML algorithms on MNIST\\
+Digit recognizer: Implementation and comparison of various ML algorithms on MNIST
 
-Success Movie\\
+Success Movie
 
-Sentiment Analysis on Tweets\\
+Sentiment Analysis on Tweets
 
-Predicting the influencer\\
+Predicting the influencer
 
-Bitcoin stock market trend prediction\\
+Bitcoin stock market trend prediction
 
-Political Social Media Posts\\
+Political Social Media Posts
 
-Intelligent Wine Analysis\\
+Intelligent Wine Analysis
 
-Predicting Fake Content\\
+Predicting Fake Content
 
-Titanic: Machine Learning from Disaster\\
+Titanic: Machine Learning from Disaster
 
-Prediction of music listening\\
+Prediction of music listening
 
-Bike Share Demand\\
+Bike Share Demand
 
-Image classification of memes - recognizing pepe the frog with a CNN and SVM combination\\
+Image classification of memes - recognizing pepe the frog with a CNN and SVM combination
 
-Netflix Movie Rating Predictor\\
+Netflix Movie Rating Predictor
 
-Pattern recognition in Psychedelic music\\
+Pattern recognition in Psychedelic music
 
-Balance Eye\\
+Balance Eye
 
-Hybrid recommender for movies rating\\
+Hybrid recommender for movies rating
 
-Pollution Level Forecasting\\
+Pollution Level Forecasting
 
-Determining the chances of a successful climbing depending on previous climbs and weather conditions\\
+Determining the chances of a successful climbing depending on previous climbs and weather conditions
 
