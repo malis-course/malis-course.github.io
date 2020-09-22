@@ -6,7 +6,7 @@ permalink: /syllabus
 ---
 
 
-|  Date       | Lecture           | Notes |
+|  Date     &nbsp; &nbsp;  | Lecture           | Notes |
 | --------- | --------------- | ------ |
 | **Week 1** <br> Sept 29       | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; Introduction; Supervised learning setup; Linear Regression; Maximum likelihood Estimation; Polynomial features    |  **Assignment:** Project Definition |
 | **Week 2** <br> Oct 6      | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; Linear models for classification     |    |
