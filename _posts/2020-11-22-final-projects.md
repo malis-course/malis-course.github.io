@@ -73,8 +73,6 @@ Smart Intrustion Detection System
 
 Detection of the Key of a Music
 
-Detecting Damages using Satellite Images using Random Forest
-
 Audio Replay Attack Detection Using A Neural Network-Based Method for Automatic Speaker Verification
 
 Cesarean Section Prediction Using Machine Learning
