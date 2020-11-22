@@ -105,4 +105,3 @@ Hybrid recommender for movies rating
 Pollution Level Forecasting
 
 Determining the chances of a successful climbing depending on previous climbs and weather conditions
-
