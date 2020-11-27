@@ -5,8 +5,8 @@ description: Final projects on MALIS
 ---
 ## Invited Jury Members
 Antitza Dantcheva, INRIA \\
-Marco Lorenzi, INRIA
-Alex F. Mendelson, G-research (London, UK) \\
+Marco Lorenzi, INRIA \\
+Alex F. Mendelson, G-research (London, UK) 
 
 ## All projects
 Brain Pulmonary Embolism Detection
