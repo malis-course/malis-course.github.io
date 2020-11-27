@@ -3,6 +3,10 @@ layout: post
 title: List of Projects - Fall 2020
 description: Final projects on MALIS
 ---
+## Invited Jury Members
+Antitza Dantcheva, INRIA \\
+Marco Lorenzi, INRIA
+Alex F. Mendelson, G-research (London, UK) \\
 
 ## All projects
 Brain Pulmonary Embolism Detection
