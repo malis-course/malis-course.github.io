@@ -27,7 +27,7 @@ A Couderc, M Nicolas
 U Trehan, T Chakraborty
 
 **Document Summarization**\\
-C Akiki, GA Hanna
+C Akiki, G Abi Hanna
 
 **Famous places recognition for social networks**\\
 H Danet, V Masiak, J Thomas 
