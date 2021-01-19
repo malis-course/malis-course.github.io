@@ -8,12 +8,36 @@ Antitza Dantcheva, INRIA \\
 Marco Lorenzi, INRIA \\
 Alex F. Mendelson, G-research (London, UK) 
 
+
+## Best project presentation award
+**Automatic Piano Music Transcriptions**\\
+D-MPhan, K Nguyen
+
+## Honorable mentions
+**Prediction Models in Forex Markets**\\
+A Baldo
+
+**Regression of biodiversity indicators from satellite observations and environmental parameters**\\
+C Chetta, V Madaghiele
+
+**Pneumonia Detection from chest X-Ray images**\\
+A Couderc, M Nicolas 
+
+**Exploring Spatial Wavelet CNN**\\
+U Trehan, T Chakraborty
+
+**Document Summarization**\\
+C Akiki, GA Hanna
+
+**Famous places recognition for social networks**\\
+H Danet, V Masiak, J Thomas 
+
+**Detection of Damages using Satellite Images**\\
+SH Boyalla, A Sahoo
+
+
 ## All projects
 Brain Pulmonary Embolism Detection
-
-Prediction Models in Forex Markets: Time Series to Image Regression Techniques
-
-Pneumonia Detection from chest X-Ray images
 
 Statementing Buildings in Images (Automatic Pixel-wise Labeling of Aerial Imagery)
 
@@ -31,11 +55,7 @@ Event-based Interest Rate Prediction
 
 Airbnb Price Prediction
 
-Document Summarization
-
 Regression of Biodiversity Indicators from Satellite Observations and Environmental Parameters
-
-Automatic Piano Music Transcription
 
 Detecting Type II Diabetes in Patients
 
@@ -52,8 +72,6 @@ Global Terrorism Prediction and Analysis Through Machine Learning
 Plane Detection Algorithm
 
 Machine Learning for Traffic Flow Classification
-
-Famous Places Recognition for Social Networks
 
 Integrating Domain Knowledge with Neural Networks
 
@@ -84,8 +102,6 @@ Cesarean Section Prediction Using Machine Learning
 Predicting Human Attrition in a Company using Classification
 
 Predicting Prognosis of Patients using Survival Models
-
-SpectralNET: Exploring Wavelet-CNN for Hyperspectral Image Classification
 
 Detection of mask wearing during the Covid health crisis19
 
