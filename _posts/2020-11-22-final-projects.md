@@ -11,7 +11,7 @@ iABG team: Martin Gras, Peter Schauer, Philip Trautmann (Germany)
 
 ## Best project presentation award
 **Automatic Piano Music Transcriptions**\\
-D-MPhan, K Nguyen
+D-M Phan, K Nguyen
 
 ## Honorable mentions
 **Prediction Models in Forex Markets**\\
