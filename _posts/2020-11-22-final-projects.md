@@ -6,7 +6,8 @@ description: Final projects on MALIS
 ## Invited Jury Members
 Antitza Dantcheva, INRIA \\
 Marco Lorenzi, INRIA \\
-Alex F. Mendelson, G-research (London, UK) 
+Alex F. Mendelson, G-research (London, UK) \\
+iABG team: Martin Gras, Peter Schauer, Philip Trautmann
 
 
 ## Best project presentation award
