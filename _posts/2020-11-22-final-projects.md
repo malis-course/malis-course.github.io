@@ -7,8 +7,7 @@ description: Final projects on MALIS
 Antitza Dantcheva, INRIA \\
 Marco Lorenzi, INRIA \\
 Alex F. Mendelson, G-research (London, UK) \\
-iABG team: Martin Gras, Peter Schauer, Philip Trautmann
-
+iABG team: Martin Gras, Peter Schauer, Philip Trautmann (Germany)
 
 ## Best project presentation award
 **Automatic Piano Music Transcriptions**\\
