@@ -32,7 +32,7 @@ C Akiki, GA Hanna
 **Famous places recognition for social networks**\\
 H Danet, V Masiak, J Thomas 
 
-**Detection of Damages using Satellite Images**\\
+**Detection of Damages using Satellite Images**
 SH Boyalla, A Sahoo
 
 
