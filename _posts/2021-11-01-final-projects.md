@@ -7,7 +7,7 @@ description: Final projects on MALIS
 François Bremond, INRIA \\
 Fréderic Cazals, INRIA \\
 Alix Lhéritier, Amadeus \\
-Amaya Nogales Gómez, Université Côte d'Azur \\
+Amaya Nogales Gómez, Université Côte d'Azur
 
 ## Best project presentation award
 **Qlearnkit: A Python toolkit for quantum machine learning**\\
@@ -32,7 +32,7 @@ I Panagiotis Pitsiorlas, H Rechatin, E Øien
 **Famous places recognition for social networks**\\
 H Danet, V Masiak, J Thomas 
 
-** Automatic colorization of archives using Machine Learning**\\
+**Automatic colorization of archives using Machine Learning**\\
 Y Moudere, L Marcadet, J de Mathan
 
 
