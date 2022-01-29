@@ -29,9 +29,6 @@ F Capano, D Falcetta, S Papicchio
 **Comic book classification: DC vs Marvel**\\
 I Panagiotis Pitsiorlas, H Rechatin, E Øien 
 
-**Famous places recognition for social networks**\\
-H Danet, V Masiak, J Thomas 
-
 **Automatic colorization of archives using Machine Learning**\\
 Y Moudere, L Marcadet, J de Mathan
 
