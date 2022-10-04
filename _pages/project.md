@@ -18,7 +18,7 @@ The breakdown of the 30% that the final project is worth amongst the different p
 
 * The technical quality of the work: Does the technical content makes sense? Is the proposed work interesting and reasonable? Is your work proposing novel insight on the problem?
 * Significance: Is the chosen problem a "real" and interesting one? or is it just a toy problem? Could this work be useful and have an impact? 
-* The novelty of the work: Doe sthe project applies a common technique to a well-studied problem, or are any of these relatively unexplored? 
+* The novelty of the work: Doe the project applies a common technique to a well-studied problem, or are any of these relatively unexplored? 
 
 In order to highlight these components, it is important you present a discussion regarding the learnings from the development of your method, and summarizing how your work compares to existing approaches.
 
