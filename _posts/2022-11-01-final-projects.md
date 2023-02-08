@@ -4,7 +4,7 @@ title: List of Projects - Fall 2022
 description: Final projects on MALIS
 ---
 ## Invited Jury Members
-Hervé Lombaert, ETS (Canada) \\
+Hervé Lombaert, ETS (Canada) 
 
 
 ## Honorable mentions
