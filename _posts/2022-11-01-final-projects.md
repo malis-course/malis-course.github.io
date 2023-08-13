@@ -20,7 +20,7 @@ H. Mtir, M. Sorbi, G. Spina
 **Playlist Classification**\\
 A. Sánchez Pérez, M. Lovelli, S. Melcarne
 
-**Cheat Detecion in Chess**\\
+**Cheat Detection in Chess**\\
 F. Wei, H. Le, H.H. Heiberg
 
 
