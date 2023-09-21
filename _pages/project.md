@@ -6,7 +6,7 @@ permalink: /project
 ---
 
 ### Format
-Instead of working on a single big project, this year the MALIS project will consist of 4 smaller projects of shorter duration
+Instead of working on a single big project, this year the MALIS project will consist of 4 smaller projects of shorter duration.
 
 ### Organization
 You will work in groups of two. The group you choose at the beginning of the term cannot be changed. Choose your partner carefully.
@@ -28,6 +28,8 @@ and/or if there were any encountered problems (e.g. it was not useful for X reas
 The best three grades will be considered and averaged into a single final project grade. 
 While this means that you may skip one project, it is strongly encouraged to work on and deliver all projects. 
 
+### Oral Presentation
+In the lecture following the delivery of one of the projects, a group will be chosen at random to present in front of the class their project.
 
 
 ### Previous Year's Projects
