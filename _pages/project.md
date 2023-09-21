@@ -17,18 +17,20 @@ For every project you need to deliver:
 2. A 1 page document briefly explaining what was done and how to run the code
 3. In the document, it is **mandatory** to include a statement about the contributions of each of the team members (who did what)
 
-#### ChatGPT Usage Policy
-Students are strongly encouraged to work on the projects on their own. If ChatGPT is used, it is necessary to include 1 paragraph (in the one page document) explaining how it was used, if it was useful (e.g. it helped us because X reason) 
-and/or if there were any encountered problems (e.g. it was not useful for X reason).
-
-**IMPORTANT**: Using ChatGPT does not affect your grade positively of negatively, as long as its use is properly reported and documented. Instead, failing to report the use of ChatGPT will have a negative impact on your grade. 
- 
 #### Oral Presentation
 In the lecture following the delivery of one of the projects, a group will be chosen at random to present in front of the class their project.
 
 #### Grading
 The best three grades will be considered and averaged into a single final project grade. 
 While this means that you may skip one project, it is strongly encouraged to work on and deliver all projects.
+
+#### ChatGPT Usage Policy
+Students are strongly encouraged to work on the projects on their own. If ChatGPT is used, it is necessary to include 1 paragraph (in the one page document) explaining how it was used, if it was useful (e.g. it helped us because X reason) 
+and/or if there were any encountered problems (e.g. it was not useful for X reason).
+
+**IMPORTANT**: Using ChatGPT does not affect your grade positively of negatively, as long as its use is properly reported and documented. Instead, failing to report the use of ChatGPT will have a negative impact on your grade. 
+
+
 
 
 ### Previous Year's Projects
