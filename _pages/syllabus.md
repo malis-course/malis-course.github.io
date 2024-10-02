@@ -21,3 +21,4 @@ permalink: /syllabus
 | **Week 13** <br> Jan 10      | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; Unsupervised learning; Clustering       |    |
 | **Week 14** <br> Jan 17      | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; Neural Networks; Revision     |    |
 | **Week 15** <br> Jan 24      | [![Generic badge](https://img.shields.io/badge/-Lab Session-orange.svg)](https://shields.io/) &nbsp; Trees & Ensembles    |  |
+
