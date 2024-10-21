@@ -10,7 +10,7 @@ permalink: /syllabus
 | **Week 1** <br> Oct 4       | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; Introduction; Supervised Learning Setup; kNNs   |   |
 | **Week 2** <br> Oct 11      | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; No lecture     |    |
 | **Week 3** <br> Oct 18      | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; Linear models for regression       |  Project 1  |
-| **Week 4** <br> Oct 25      |  [![Generic badge](https://img.shields.io/badge/-Lab Session-orange.svg)](https://shields.io/) &nbsp; Linear Models for Classification; The Perceptron; Gradient Descent     |    |
+| **Week 4** <br> Oct 25      |  [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp; Linear Models for Classification; The Perceptron; Gradient Descent     |    |
 | **Week 5** <br> Nov 8      | [![Generic badge](https://img.shields.io/badge/-Lecture-blue.svg)](https://shields.io/) &nbsp;      |    |
 | **Week 6** <br> Nov 15      |  [![Generic badge](https://img.shields.io/badge/-Lab Session-orange.svg)](https://shields.io/) &nbsp; Lab 1  |  Project 1 due    |
 | **Week 7** <br> Nov 22      |  [![Generic badge](https://img.shields.io/badge/-Lab Session-orange.svg)](https://shields.io/) &nbsp; Lab 2     | Project 2  |
