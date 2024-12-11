@@ -6,23 +6,16 @@ permalink: /project
 ---
 
 #### Format
-Instead of working on a single big project, this year the MALIS project will consist of 4 smaller projects of shorter duration.
+This year the MALIS project will follow two formats: standard and advanced
 
 #### Organization
-You will work in groups of two. The group you choose at the beginning of the term cannot be changed. Choose your partner carefully.
+You will work in groups of two, maximum three. The group you choose at the beginning of the term cannot be changed. Choose your partner carefully.
 
-#### Deliverables
-For every project you need to deliver:
-1. The code associated to the project
-2. A 1 page document briefly explaining what was done and how to run the code
-3. In the document, it is **mandatory** to include a statement about the contributions of each of the team members (who did what)
+#### Standard Project
+The standard project will require you to propose a solution to a given problem that should be solved using machine learning. You will be given some constraintrs that you need to respect.
 
-#### Oral Presentation
-In the lecture following the delivery of one of the projects, a group will be chosen at random to present in front of the class their project.
-
-#### Grading
-The best three grades will be considered and averaged into a single final project grade. 
-While this means that you may skip one project, it is strongly encouraged to work on and deliver all projects.
+#### Advanced Project
+In the advanced project, you will need to identify a problem that can be solved using machine learning. You will need to design and implement your own solution.
 
 #### ChatGPT Usage Policy
 Students are strongly encouraged to work on the projects on their own. If ChatGPT is used, it is necessary to include 1 paragraph (in the one page document) explaining how it was used, if it was useful (e.g. it helped us because X reason) 
